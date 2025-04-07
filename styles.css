@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #1d1f21;
+    color: #c5c8c6;
+    padding: 2rem;
+  }
+  .container {
+    max-width: 750px;
+    margin: auto;
+    background: #282a2e;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  }
+  h1, h2 {
+    text-align: center;
+    color: #b5bd68;
+  }
+  label {
+    display: block;
+    margin-top: 1rem;
+  }
+  input[type="number"], select {
+    width: 97.5%;
+    padding: 0.5rem;
+    margin-top: 0.3rem;
+    border-radius: 6px;
+    border: none;
+  }
+  input[type="checkbox"] {
+    margin-right: 0.5rem;
+  }
+  button {
+    margin-top: 1.5rem;
+    width: 100%;
+    padding: 0.75rem;
+    background: #b5bd68;
+    color: #1d1f21;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  button:hover {
+    background: #a4b357;
+  }
+  .result {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    color: #81a2be;
+    text-align: center;
+  }
+  .section {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: #373b41;
+    border-radius: 10px;
+  }
+  .formula {
+    font-family: monospace;
+    color: #de935f;
+    margin-top: 1rem;
+  }
+  .formula-description {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-top: 1rem;
+    color: #c5c8c6;
+  }
+  .formula-block {
+    background-color: #1d1f21;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+  }
+  .highlight {
+    color: #f0c674;
+  }
+  
