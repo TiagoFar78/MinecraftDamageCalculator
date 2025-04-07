@@ -1,0 +1,6 @@
+name: MinecraftCalculator
+version: 0.5
+author: TiagoFar78
+main: combatcalculator.CombatCalculator
+commands:
+  simulatedamage:
